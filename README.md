@@ -56,7 +56,7 @@ dart run bin/translator.dart --api-key YOUR_API_KEY [options]
 #### Translate a Java file:
 
 ```bash
-dart run bin/translator.dart --api-key YOUR_API_KEY --file examples/camera_example.java --output output.dart
+dart run bin/translator.dart --api-key YOUR_API_KEY --file examples/camera_example.java --output example/camera_example.dart
 ```
 
 #### Interactive mode (paste code):
